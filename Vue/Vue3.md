@@ -115,7 +115,7 @@ export default {
 
 ### ref & reactive
 
-> 基本数据类型使用`ref`，`reactive`只用于对象响应式
+> 基本数据类型使用`ref`，`reactive`只用于对象响应式; `ref`也可以包裹对象
 >
 > `ref`在`js`内需要加`.value`后缀
 
